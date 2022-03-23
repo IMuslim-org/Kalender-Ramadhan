@@ -4,3 +4,5 @@
   Network SEA-1<br>
   Datacenter Arsa-1 Jakarta, Indonesia.
 </p>
+<p>Menggunakan single-engine system sehingga mengurangi penggunaan storage berlebih pada sistem lainnya seperti CDN-ID yang terletak di server yang sama.</p>
+<h2>Status: FINISHING</h2>
